@@ -11,7 +11,7 @@ const TrustedBy = () => {
 
           <div className="flex items-center">
             <Image
-              src="/logos.png"
+              src="/Logos.png"
               alt="Logo 1"
               width={900}
               height={400}

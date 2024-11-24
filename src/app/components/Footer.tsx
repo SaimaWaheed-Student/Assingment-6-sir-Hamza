@@ -41,7 +41,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <Image
-              src="/logo.png"
+              src="/Logo.png"
               alt="Logo"
               width={100}
               height={50}
@@ -161,7 +161,7 @@ const Footer = () => {
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link href="#">
               <Image
-                src="/facebook.png"
+                src="/Facebook.png"
                 alt="Facebook"
                 width={24}
                 height={24}
